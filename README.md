@@ -1,2 +1,2 @@
-# Varen Finance - Statistics Repository
+# Varen Finance<br>Statistics Repository
 https://info.varen.exchange
